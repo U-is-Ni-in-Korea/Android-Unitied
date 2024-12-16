@@ -8,7 +8,7 @@
 <br>
 
 ## 🧑🏻‍💻CONTRIBUTORS🧑🏻‍💻
-| 이태희<br/>([@taeheeL](https://github.com/taeheeL)) | 이동기<br/>([@rkdmf1026](https://github.com/rkdmf1026)) | 이준희<br/>([@l2zh](https://github.com/l2zh)) | 김수빈<br/>([@sub101](https://github.com/sub101)) |
+| 이태희<br/>([@haeti-dev](https://github.com/haeti-dev)) | 이동기<br/>([@rkdmf1026](https://github.com/rkdmf1026)) | 이준희<br/>([@l2zh](https://github.com/l2zh)) | 김수빈<br/>([@sub101](https://github.com/sub101)) |
 | :---: | :---: | :---: | :---: |
 | <img width="540"  src="https://github.com/sub101/Study-Kotlin/assets/58244158/25713f24-e44e-4562-93b0-6c604eb056e2"/> | <img width="540"  src="https://github.com/sub101/Study-Kotlin/assets/58244158/e34ed735-e4d1-49d0-952f-71d2b8d0dfbf"/> | <img width="540"  src="https://github.com/sub101/Study-Kotlin/assets/58244158/7685e517-061d-457f-bd6e-6fd5aa360450"/> |<img width="540"  src="https://github.com/sub101/Study-Kotlin/assets/58244158/7344941f-c9c0-465d-9259-15a1fd1550e8"/> |
 | `로그인`<br/>`메인페이지` | `한판 승부 페이지`<br/>`장기 승부 페이지` | `히스토리 페이지` | `소원권 페이지`|
